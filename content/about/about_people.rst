@@ -121,40 +121,6 @@ doublej472
 
   <br/>
 
-`Jerry Peng`_
--------------
-
-.. image:: /images/jpeng.png
-  :width: 110px
-  :align: right
-  :alt: Jerry Peng
-
-.. class:: no-breaks
-
-  **Student Developer**
-
-Jerry joined the OSL in April 2017 and is majoring in computer science with a
-systems option. He is interested in web development and when he heard from a
-friend the OSL was hiring, he quickly applied. After graduation he is looking to
-continue working in software development. In his spare time, he likes playing
-video games, photography, and playing sports and his first language is Chinese.
-
-.. class:: no-breaks
-
-  **Github Account**
-
-https://github.com/jerrypeng0112
-
-.. class:: no-breaks
-
-  **Nick on irc.freenode.net**
-
-jerrypeng
-
-.. raw:: html
-
-  <br/>
-
 `Travis Whitehead`_
 -------------------
 
